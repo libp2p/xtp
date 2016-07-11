@@ -2,7 +2,7 @@
 
 > Let's put exotic network transports outside the main process.
 > That way we can use implementations in other languages easily.
-> And isolate, sanbox, and resource constrain unproven implementations.
+> And isolate, sandbox, and resource constrain unproven implementations.
 
 ## Motivation
 
